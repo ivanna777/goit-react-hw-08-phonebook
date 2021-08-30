@@ -1,0 +1,17 @@
+.contact-wrapper {
+  width: 50%;
+}
+
+.contact-list {
+  list-style-type: none;
+}
+
+.contact-li {
+  display: flex;
+  justify-content: space-between;
+  align-items:baseline;
+}
+
+.absent-contact {
+  color: red;
+}
